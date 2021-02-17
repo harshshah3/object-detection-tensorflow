@@ -1,0 +1,24 @@
+# Compiled source #
+###################
+*.com
+*.html
+
+
+# Packages #
+############
+*.zip
+
+# Logs and databases #
+######################
+
+# OS generated files #
+######################
+
+# Other files#
+######################
+
+*.mp4
+*.pptx
+*.doc
+*.docx
+*.txt
