@@ -17,7 +17,7 @@
 
 5. Below is the image in which manual steps are highlighted with red arrows. Rest all steps can be run Ctrl+Enter step by step sequencially from top to bottom.
 
-![fig 1: Model training - Table of contents](Model_training_steps.png)
+![Model training steps](https://github.com/harshshah3/object-detection-tensorflow/blob/main/Model_training_steps.png)
 
 
 ## Model_testing.ipynb Colab Notebook
